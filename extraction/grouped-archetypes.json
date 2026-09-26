@@ -1,0 +1,65 @@
+{
+  "total_dataset_size": 111,
+  "archetypes_summary": {
+    "financial_terminal": {
+      "name": "Financial Trading & Crypto Terminal",
+      "count": 32,
+      "theme_default": "dark",
+      "density": "ultra-high",
+      "key_components": [
+        "Order book matrix",
+        "Real-time ticker stream",
+        "Sparkline candle charts",
+        "Tabular right-aligned figures"
+      ]
+    },
+    "enterprise_table": {
+      "name": "Enterprise Data Matrix & Audit Grid",
+      "count": 32,
+      "theme_default": "light",
+      "density": "high",
+      "key_components": [
+        "Multi-column sortable table",
+        "Hairline row dividers",
+        "Status pill badges",
+        "Compact pagination"
+      ]
+    },
+    "minimalist_workbench": {
+      "name": "Minimalist SaaS Workspace & Task Engine",
+      "count": 31,
+      "theme_default": "light",
+      "density": "compact",
+      "key_components": [
+        "Collapsible sidebar",
+        "Breadcrumb path navigation",
+        "Segmented control switchers",
+        "Inline action menus"
+      ]
+    },
+    "operational_kpi": {
+      "name": "Executive KPI & Performance Summary",
+      "count": 11,
+      "theme_default": "light",
+      "density": "medium",
+      "key_components": [
+        "Quad metric hero cards",
+        "Trend indicator deltas (+/-)",
+        "Categorized bar distributions",
+        "Filter toolbar"
+      ]
+    },
+    "developer_observability": {
+      "name": "Developer Observability & Telemetry Monitor",
+      "count": 5,
+      "theme_default": "mixed",
+      "density": "ultra-high",
+      "key_components": [
+        "Log trace waterfall",
+        "Cluster health gauges",
+        "Node distribution grid",
+        "P99/P95 latency stats"
+      ]
+    }
+  }
+}

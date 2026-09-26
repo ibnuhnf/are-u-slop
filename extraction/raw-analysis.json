@@ -1,0 +1,7229 @@
+[
+  {
+    "filename": "0081f62d5c7d93ca7d78eeb7a5af58bc(1).webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 244.9,
+      "edge_density": 0.0137,
+      "horizontal_lines": 2266,
+      "vertical_lines": 1951,
+      "saturation_ratio": 0.013
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "0081f62d5c7d93ca7d78eeb7a5af58bc.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 244.9,
+      "edge_density": 0.0137,
+      "horizontal_lines": 2266,
+      "vertical_lines": 1951,
+      "saturation_ratio": 0.013
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "0523bd9511d90632e6660d672fbd4f03.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0801,
+      "horizontal_lines": 46723,
+      "vertical_lines": 42787,
+      "saturation_ratio": 0.0848
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "05c9ea739634c59986787ad881d78c64.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0827,
+      "horizontal_lines": 49347,
+      "vertical_lines": 38206,
+      "saturation_ratio": 0.0826
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "06be9097739e42f7f5adeeaa8f4ff9f8.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1404,
+      "height": 1404,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 220.5,
+      "edge_density": 0.0285,
+      "horizontal_lines": 5970,
+      "vertical_lines": 3277,
+      "saturation_ratio": 0.0818
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "083b759b67641c4ff5e0932b3a2eaa39.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 252.3,
+      "edge_density": 0.0277,
+      "horizontal_lines": 5043,
+      "vertical_lines": 575,
+      "saturation_ratio": 0.0066
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "0b74a61786dc8a48339c2baa4661c5f9.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0757,
+      "horizontal_lines": 46263,
+      "vertical_lines": 43004,
+      "saturation_ratio": 0.0202
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "0c9a77f3c4e55fb14f59578739edfb53.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 12.3,
+      "edge_density": 0.0906,
+      "horizontal_lines": 56310,
+      "vertical_lines": 56421,
+      "saturation_ratio": 0.0868
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "1259fbb008a9c95cd717d0e9b39ac0cd.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0741,
+      "horizontal_lines": 46273,
+      "vertical_lines": 41989,
+      "saturation_ratio": 0.0648
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "1a6ce74e58b7e726f7cbd075af956ffa.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1290,
+      "height": 1614,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0208,
+      "horizontal_lines": 3263,
+      "vertical_lines": 2850,
+      "saturation_ratio": 0.0148
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "1e84eca42f9bed3742baf44475adace8.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1290,
+      "height": 1608,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 243.8,
+      "edge_density": 0.0088,
+      "horizontal_lines": 5534,
+      "vertical_lines": 957,
+      "saturation_ratio": 0.0068
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "1f132b63fc22479677757a1ee1d03278.webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1892,
+      "height": 1404,
+      "aspect_ratio": 1.35
+    },
+    "metrics": {
+      "background_luminance": 228.0,
+      "edge_density": 0.0213,
+      "horizontal_lines": 1934,
+      "vertical_lines": 1255,
+      "saturation_ratio": 0.0696
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "236844933b631c167dd58b304e227738.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 253.0,
+      "edge_density": 0.031,
+      "horizontal_lines": 5890,
+      "vertical_lines": 5994,
+      "saturation_ratio": 0.0458
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "2b07067e5222d465153046600ee3fbb0(1).webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 245.0,
+      "edge_density": 0.016,
+      "horizontal_lines": 2697,
+      "vertical_lines": 2917,
+      "saturation_ratio": 0.0445
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "2b07067e5222d465153046600ee3fbb0.webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 245.0,
+      "edge_density": 0.016,
+      "horizontal_lines": 2697,
+      "vertical_lines": 2917,
+      "saturation_ratio": 0.0445
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "2b3f00dc87ac79cf339f60dbab1e1e4d.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1828,
+      "height": 1404,
+      "aspect_ratio": 1.3
+    },
+    "metrics": {
+      "background_luminance": 237.2,
+      "edge_density": 0.0308,
+      "horizontal_lines": 10307,
+      "vertical_lines": 4571,
+      "saturation_ratio": 0.3675
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "2c0533ddefd7e6b19197a23f37e03f95.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0851,
+      "horizontal_lines": 55167,
+      "vertical_lines": 37590,
+      "saturation_ratio": 0.1126
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "2c95720a847f958a006794dbaa00e8ba.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0815,
+      "horizontal_lines": 49140,
+      "vertical_lines": 46014,
+      "saturation_ratio": 0.0512
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "341202491e65f0c4c1f7718bf5b22026.webp",
+    "category": "dashboard",
+    "subcategory": "developer-observability-metrics",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 253.0,
+      "edge_density": 0.0529,
+      "horizontal_lines": 1141,
+      "vertical_lines": 213,
+      "saturation_ratio": 0.0937
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Developer Observability Metrics in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "345baabd701964faf0068daa1cb0284b.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0868,
+      "horizontal_lines": 47467,
+      "vertical_lines": 44278,
+      "saturation_ratio": 0.1085
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "35137da30c785536bf53cca122b95744.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 253.0,
+      "edge_density": 0.0282,
+      "horizontal_lines": 8179,
+      "vertical_lines": 1683,
+      "saturation_ratio": 0.0436
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "383655ec18d79e775016a1d3079489f6.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0082,
+      "horizontal_lines": 6562,
+      "vertical_lines": 1633,
+      "saturation_ratio": 0.0406
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "3873f9647aa96a8d41791586b590da4d.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0827,
+      "horizontal_lines": 52465,
+      "vertical_lines": 45242,
+      "saturation_ratio": 0.0894
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "3aeb51ad61dcd2589247f43c079b808c.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.078,
+      "horizontal_lines": 46984,
+      "vertical_lines": 44471,
+      "saturation_ratio": 0.0578
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "3aedb310347b3d62c6605999bceb2188.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0822,
+      "horizontal_lines": 50710,
+      "vertical_lines": 48761,
+      "saturation_ratio": 0.0571
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "3d9edff81eddcb8be6bfeca754f301b5.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 251.0,
+      "edge_density": 0.0212,
+      "horizontal_lines": 1105,
+      "vertical_lines": 0,
+      "saturation_ratio": 0.0031
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "3dbbcd4456dd26de4a0293f9a4f40296(1).webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 245.0,
+      "edge_density": 0.0436,
+      "horizontal_lines": 7634,
+      "vertical_lines": 3173,
+      "saturation_ratio": 0.0636
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "3dbbcd4456dd26de4a0293f9a4f40296.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 245.0,
+      "edge_density": 0.0436,
+      "horizontal_lines": 7634,
+      "vertical_lines": 3173,
+      "saturation_ratio": 0.0636
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "3eca4c1b5993a2875e57cdb55411d743.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1290,
+      "height": 1612,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.017,
+      "horizontal_lines": 17737,
+      "vertical_lines": 6450,
+      "saturation_ratio": 0.0408
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "3f2f788de3f751b8768a103cfa064a92(1).webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0082,
+      "horizontal_lines": 9850,
+      "vertical_lines": 3092,
+      "saturation_ratio": 0.0425
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "3f2f788de3f751b8768a103cfa064a92.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0082,
+      "horizontal_lines": 9850,
+      "vertical_lines": 3092,
+      "saturation_ratio": 0.0425
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "41ef575e03d5db1475b76cc847e65585.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1872,
+      "height": 1404,
+      "aspect_ratio": 1.33
+    },
+    "metrics": {
+      "background_luminance": 127.4,
+      "edge_density": 0.0264,
+      "horizontal_lines": 5017,
+      "vertical_lines": 3693,
+      "saturation_ratio": 0.5178
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "44529df2cf91933d14c267e2eed7cbc8.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 241.0,
+      "edge_density": 0.0305,
+      "horizontal_lines": 9270,
+      "vertical_lines": 850,
+      "saturation_ratio": 0.1154
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "448c6b00b1c42c34921b03c088b2e3a3.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 10.0,
+      "edge_density": 0.0392,
+      "horizontal_lines": 6232,
+      "vertical_lines": 2324,
+      "saturation_ratio": 0.0536
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "4756863b5ba57993cd0c20d1d5124e9b.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1288,
+      "height": 1616,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 231.1,
+      "edge_density": 0.0143,
+      "horizontal_lines": 7662,
+      "vertical_lines": 3474,
+      "saturation_ratio": 0.0076
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "47a03fbd0937bcdc2e7281642c600bee.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0125,
+      "horizontal_lines": 10136,
+      "vertical_lines": 5504,
+      "saturation_ratio": 0.0392
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "492d77e0cc7ad94ec8a6f88fabec7e2d.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0807,
+      "horizontal_lines": 50525,
+      "vertical_lines": 44703,
+      "saturation_ratio": 0.0464
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "4c0d85125491612511cbd2e8e32d8331.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0778,
+      "horizontal_lines": 45276,
+      "vertical_lines": 43220,
+      "saturation_ratio": 0.0802
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "4f04abcd133150ab720d67ccdcb2e316(1).webp",
+    "category": "dashboard",
+    "subcategory": "developer-observability-metrics",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 165.4,
+      "edge_density": 0.0544,
+      "horizontal_lines": 1340,
+      "vertical_lines": 659,
+      "saturation_ratio": 0.52
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Developer Observability Metrics in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "4f04abcd133150ab720d67ccdcb2e316.webp",
+    "category": "dashboard",
+    "subcategory": "developer-observability-metrics",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 165.4,
+      "edge_density": 0.0544,
+      "horizontal_lines": 1340,
+      "vertical_lines": 659,
+      "saturation_ratio": 0.52
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Developer Observability Metrics in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "5009ccb1cb048a5ba35c91cce14d5009.webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 253.0,
+      "edge_density": 0.0209,
+      "horizontal_lines": 3917,
+      "vertical_lines": 3008,
+      "saturation_ratio": 0.0677
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "5390f62536b318de2364c110fa29fa90.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0094,
+      "horizontal_lines": 6305,
+      "vertical_lines": 5318,
+      "saturation_ratio": 0.0372
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "551391e79066e30964554c94a1a68729.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1288,
+      "height": 1608,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0088,
+      "horizontal_lines": 3372,
+      "vertical_lines": 1216,
+      "saturation_ratio": 0.0121
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "56c43b0f690b1f8d970c58611114d182.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0109,
+      "horizontal_lines": 5074,
+      "vertical_lines": 3811,
+      "saturation_ratio": 0.0158
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "5f97cba3c07911e915099d240152a5f0.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0082,
+      "horizontal_lines": 5662,
+      "vertical_lines": 3884,
+      "saturation_ratio": 0.0378
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "601ccf963d931f3bac261769fcf9c7d1.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0095,
+      "horizontal_lines": 6359,
+      "vertical_lines": 4602,
+      "saturation_ratio": 0.0323
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "635697323ace2fcd257f1c8ef1b3dbeb.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 253.0,
+      "edge_density": 0.025,
+      "horizontal_lines": 2631,
+      "vertical_lines": 2634,
+      "saturation_ratio": 0.0121
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "6380480b7be99544b4ec7999edb8df97.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0744,
+      "horizontal_lines": 47929,
+      "vertical_lines": 40582,
+      "saturation_ratio": 0.0847
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "6862dee5123b5282faab182417b443f7.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.01,
+      "horizontal_lines": 5267,
+      "vertical_lines": 2808,
+      "saturation_ratio": 0.024
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "6a9539f334202a810aeb915d734783b9.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 241.0,
+      "edge_density": 0.0386,
+      "horizontal_lines": 10658,
+      "vertical_lines": 4124,
+      "saturation_ratio": 0.0609
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "6e85eafc28db3e611012cc2ed0f0fc02.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 251.0,
+      "edge_density": 0.0166,
+      "horizontal_lines": 3852,
+      "vertical_lines": 2187,
+      "saturation_ratio": 0.0048
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "6f405f78c3e95edf3816420cba477ce0.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1872,
+      "height": 1404,
+      "aspect_ratio": 1.33
+    },
+    "metrics": {
+      "background_luminance": 200.1,
+      "edge_density": 0.0218,
+      "horizontal_lines": 8190,
+      "vertical_lines": 4926,
+      "saturation_ratio": 0.0741
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "6f9e1a963a0917563406dab1d20e76fb.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 10.0,
+      "edge_density": 0.0392,
+      "horizontal_lines": 6232,
+      "vertical_lines": 2324,
+      "saturation_ratio": 0.0536
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "70a6fc1a124fd34259834c9b999148ee(1).webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 245.0,
+      "edge_density": 0.0198,
+      "horizontal_lines": 4624,
+      "vertical_lines": 1280,
+      "saturation_ratio": 0.0215
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "70a6fc1a124fd34259834c9b999148ee.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 245.0,
+      "edge_density": 0.0198,
+      "horizontal_lines": 4624,
+      "vertical_lines": 1280,
+      "saturation_ratio": 0.0215
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "7b2626d4d5a76e952d29a604d73ebd7c.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0858,
+      "horizontal_lines": 52939,
+      "vertical_lines": 52916,
+      "saturation_ratio": 0.0445
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "7cd35b0d4d798c14392a30be029dec95.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0842,
+      "horizontal_lines": 49464,
+      "vertical_lines": 43775,
+      "saturation_ratio": 0.088
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "7d6dc980a377f9049afe1bc7da641ae2.webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 253.0,
+      "edge_density": 0.0337,
+      "horizontal_lines": 1295,
+      "vertical_lines": 323,
+      "saturation_ratio": 0.1039
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "8076742ed8a0217b0399e2b6494b9f5c.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0091,
+      "horizontal_lines": 6176,
+      "vertical_lines": 5768,
+      "saturation_ratio": 0.0403
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "814ce06ae8155ba18b40ee950356f317.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0843,
+      "horizontal_lines": 51986,
+      "vertical_lines": 50007,
+      "saturation_ratio": 0.0345
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "84b2b50b64e47f25ec049897fbc02fdc.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0722,
+      "horizontal_lines": 46760,
+      "vertical_lines": 45320,
+      "saturation_ratio": 0.2696
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "88cab6a80e6bab80c7597cb745fb1904.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.077,
+      "horizontal_lines": 44780,
+      "vertical_lines": 41570,
+      "saturation_ratio": 0.0514
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "9025aeac4b3682c6856c4fcf7a198a1e.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0197,
+      "horizontal_lines": 6874,
+      "vertical_lines": 7457,
+      "saturation_ratio": 0.0646
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "91e87e6cab802db13f23b37fb8988844.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 251.0,
+      "edge_density": 0.0172,
+      "horizontal_lines": 2254,
+      "vertical_lines": 416,
+      "saturation_ratio": 0.0028
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "975b01a244553f8214e1c035cd001b73.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0082,
+      "horizontal_lines": 6334,
+      "vertical_lines": 5878,
+      "saturation_ratio": 0.0913
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "98ae0746e1e4acf804c5c4912eefb0e0.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1290,
+      "height": 1618,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 243.8,
+      "edge_density": 0.0158,
+      "horizontal_lines": 11235,
+      "vertical_lines": 4873,
+      "saturation_ratio": 0.0893
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "9953f66040c0d166ab7fc8d1dd288a43.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 251.0,
+      "edge_density": 0.0133,
+      "horizontal_lines": 1109,
+      "vertical_lines": 73,
+      "saturation_ratio": 0.0097
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "99dd01af5a3ca3738e618bfa0db537b6(1).webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0222,
+      "horizontal_lines": 7443,
+      "vertical_lines": 5422,
+      "saturation_ratio": 0.0728
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "99dd01af5a3ca3738e618bfa0db537b6.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0222,
+      "horizontal_lines": 7443,
+      "vertical_lines": 5422,
+      "saturation_ratio": 0.0728
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "9a5487c653d92cab1ef5db1513add5e3.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 12.3,
+      "edge_density": 0.0577,
+      "horizontal_lines": 33959,
+      "vertical_lines": 30400,
+      "saturation_ratio": 0.0659
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "9dbeeb2d545bb16bedb0e88430459980.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0828,
+      "horizontal_lines": 50564,
+      "vertical_lines": 43834,
+      "saturation_ratio": 0.088
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "a14926985c46ed61a8ef31828af3ef90.webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1872,
+      "height": 1404,
+      "aspect_ratio": 1.33
+    },
+    "metrics": {
+      "background_luminance": 220.0,
+      "edge_density": 0.0232,
+      "horizontal_lines": 2640,
+      "vertical_lines": 2667,
+      "saturation_ratio": 0.0674
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "a5c39eef02359416bb68e62839a169ca.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0837,
+      "horizontal_lines": 48632,
+      "vertical_lines": 41856,
+      "saturation_ratio": 0.1062
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "a88aa82cfe87c2a5fc4136cbf24b78d1.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 241.0,
+      "edge_density": 0.0282,
+      "horizontal_lines": 7056,
+      "vertical_lines": 4203,
+      "saturation_ratio": 0.0569
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "a9fcf89713b3bb241ab89d9703427534.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 253.0,
+      "edge_density": 0.014,
+      "horizontal_lines": 1060,
+      "vertical_lines": 292,
+      "saturation_ratio": 0.0297
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "ab651155e3ea05ec103642338af0a3fa.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0866,
+      "horizontal_lines": 46891,
+      "vertical_lines": 44795,
+      "saturation_ratio": 0.0362
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "ac71aa9c79becef341b5e23582d32cac.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1872,
+      "height": 1404,
+      "aspect_ratio": 1.33
+    },
+    "metrics": {
+      "background_luminance": 198.0,
+      "edge_density": 0.0245,
+      "horizontal_lines": 11269,
+      "vertical_lines": 5358,
+      "saturation_ratio": 0.0016
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "ae8cb8da971847c9e83eb1663b28a4dd.webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 253.0,
+      "edge_density": 0.0111,
+      "horizontal_lines": 1862,
+      "vertical_lines": 858,
+      "saturation_ratio": 0.0435
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "b2190a1645a11f4242db7a29f5db4254.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0121,
+      "horizontal_lines": 8220,
+      "vertical_lines": 8097,
+      "saturation_ratio": 0.1133
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "b52017c4b01f9490d30e9c57c88e888f.webp",
+    "category": "dashboard",
+    "subcategory": "developer-observability-metrics",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 165.4,
+      "edge_density": 0.0544,
+      "horizontal_lines": 1340,
+      "vertical_lines": 659,
+      "saturation_ratio": 0.52
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Developer Observability Metrics in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "c25e049c2b17aabb3a80f01d89243f88.webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1872,
+      "height": 1404,
+      "aspect_ratio": 1.33
+    },
+    "metrics": {
+      "background_luminance": 236.3,
+      "edge_density": 0.0175,
+      "horizontal_lines": 3082,
+      "vertical_lines": 2085,
+      "saturation_ratio": 0.1596
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "c35afccd87c6ba0ffd66978dc7b7b676.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 245.5,
+      "edge_density": 0.0168,
+      "horizontal_lines": 3397,
+      "vertical_lines": 1631,
+      "saturation_ratio": 0.0164
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "c575cccc80c3fb4e024dea6b90faaf9f.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 241.0,
+      "edge_density": 0.0322,
+      "horizontal_lines": 7616,
+      "vertical_lines": 4010,
+      "saturation_ratio": 0.098
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "c70c0c1afe98b3c1cd5580c85d08225d.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 241.0,
+      "edge_density": 0.0357,
+      "horizontal_lines": 8547,
+      "vertical_lines": 4579,
+      "saturation_ratio": 0.1532
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "c9f1590d1e6c51bab4f67e28c773d734.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0852,
+      "horizontal_lines": 56461,
+      "vertical_lines": 46764,
+      "saturation_ratio": 0.0709
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "cd104b575e8b4e3feb3c4a196a3efccc.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0834,
+      "horizontal_lines": 44385,
+      "vertical_lines": 43381,
+      "saturation_ratio": 0.0878
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "d06b92826fa99f234fc7bc7efa1dfc66.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1872,
+      "height": 1404,
+      "aspect_ratio": 1.33
+    },
+    "metrics": {
+      "background_luminance": 245.0,
+      "edge_density": 0.0328,
+      "horizontal_lines": 8375,
+      "vertical_lines": 6529,
+      "saturation_ratio": 0.0254
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "d3176d750922cb2927fce63c4fcd21fc.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0851,
+      "horizontal_lines": 52623,
+      "vertical_lines": 48626,
+      "saturation_ratio": 0.0607
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "d8f508c582ba63fb83d93ba5edd24bd5.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.074,
+      "horizontal_lines": 45938,
+      "vertical_lines": 42211,
+      "saturation_ratio": 0.1533
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "d99fdc75099368682686a9c357907c15.webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1080,
+      "aspect_ratio": 1.0
+    },
+    "metrics": {
+      "background_luminance": 253.0,
+      "edge_density": 0.0174,
+      "horizontal_lines": 1090,
+      "vertical_lines": 410,
+      "saturation_ratio": 0.0457
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "df520d96dd946100bfc14a6af9e1cf10.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0845,
+      "horizontal_lines": 51918,
+      "vertical_lines": 50134,
+      "saturation_ratio": 0.0518
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "e0d2a453f2bd190c3b1f421295e09e7d(1).webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0079,
+      "horizontal_lines": 4433,
+      "vertical_lines": 2808,
+      "saturation_ratio": 0.0156
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "e0d2a453f2bd190c3b1f421295e09e7d.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0079,
+      "horizontal_lines": 4433,
+      "vertical_lines": 2808,
+      "saturation_ratio": 0.0156
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "e1dea141a5a4b544ef141612f8e9b552.webp",
+    "category": "dashboard",
+    "subcategory": "developer-observability-metrics",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 165.4,
+      "edge_density": 0.0544,
+      "horizontal_lines": 1340,
+      "vertical_lines": 659,
+      "saturation_ratio": 0.52
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Developer Observability Metrics in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "e2d846ce2d69e97a1300fa3a723a29b1.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 255.0,
+      "edge_density": 0.0161,
+      "horizontal_lines": 5739,
+      "vertical_lines": 5594,
+      "saturation_ratio": 0.0404
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "e2eebadc68bbc66b6853a7723439ad0d.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0114,
+      "horizontal_lines": 6453,
+      "vertical_lines": 3662,
+      "saturation_ratio": 0.0447
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "e43663caae8921be3e3c31ab7baeb2d1.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 251.0,
+      "edge_density": 0.0149,
+      "horizontal_lines": 4484,
+      "vertical_lines": 422,
+      "saturation_ratio": 0.0102
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "e49c7c26e5313e5fea3da8e6fd45c187.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0823,
+      "horizontal_lines": 43159,
+      "vertical_lines": 39843,
+      "saturation_ratio": 0.0995
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "e4b783f184ed7bef2a8660904160a9ad.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0826,
+      "horizontal_lines": 49149,
+      "vertical_lines": 48247,
+      "saturation_ratio": 0.02
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "e7de639db43af062dd51664e513d6ecf.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 241.0,
+      "edge_density": 0.0362,
+      "horizontal_lines": 8277,
+      "vertical_lines": 3809,
+      "saturation_ratio": 0.1889
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "ea97d6966185e2e5aac970c2ffd8dd67.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1872,
+      "height": 1404,
+      "aspect_ratio": 1.33
+    },
+    "metrics": {
+      "background_luminance": 3.5,
+      "edge_density": 0.029,
+      "horizontal_lines": 7562,
+      "vertical_lines": 6832,
+      "saturation_ratio": 0.396
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "medium",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "ebdc525b1937d7bd01d19aef87b5795c.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0078,
+      "horizontal_lines": 5735,
+      "vertical_lines": 3029,
+      "saturation_ratio": 0.0564
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "eee6a5be427eaef9086fce1726f5f0ec.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.083,
+      "horizontal_lines": 52613,
+      "vertical_lines": 45786,
+      "saturation_ratio": 0.0881
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "ef2eca9941ec82fb3e885d817ccb2444.webp",
+    "category": "dashboard",
+    "subcategory": "financial-trading-terminal",
+    "theme": "dark",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 11.1,
+      "edge_density": 0.0856,
+      "horizontal_lines": 52174,
+      "vertical_lines": 49030,
+      "saturation_ratio": 0.073
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Financial Trading Terminal in dark mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "f27671995a1d102171f63b865b2f4220.webp",
+    "category": "dashboard",
+    "subcategory": "enterprise-data-table",
+    "theme": "light",
+    "dimensions": {
+      "width": 1288,
+      "height": 1620,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 228.6,
+      "edge_density": 0.0201,
+      "horizontal_lines": 12729,
+      "vertical_lines": 7014,
+      "saturation_ratio": 0.1085
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Enterprise Data Table in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "f5aa02606371b64cfda188783c610ff9.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 254.0,
+      "edge_density": 0.0087,
+      "horizontal_lines": 6480,
+      "vertical_lines": 5626,
+      "saturation_ratio": 0.0354
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "f86ce822c4088c292c36654284dc17c0.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1288,
+      "height": 1608,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 243.8,
+      "edge_density": 0.0113,
+      "horizontal_lines": 7880,
+      "vertical_lines": 4258,
+      "saturation_ratio": 0.0187
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "fa34bc3f7e2b195aee92148409e193b1.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1288,
+      "height": 1618,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 236.1,
+      "edge_density": 0.0158,
+      "horizontal_lines": 6615,
+      "vertical_lines": 4518,
+      "saturation_ratio": 0.0109
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "compact",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 8,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "fc057c1f6bcc5478698d20a68c87c626.webp",
+    "category": "dashboard",
+    "subcategory": "minimalist-saas-workbench",
+    "theme": "light",
+    "dimensions": {
+      "width": 1080,
+      "height": 1350,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 241.0,
+      "edge_density": 0.0308,
+      "horizontal_lines": 10504,
+      "vertical_lines": 4881,
+      "saturation_ratio": 0.022
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Minimalist Saas Workbench in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "fc3bfef1409e5e0caa5ffd5641b75995(1).webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 245.0,
+      "edge_density": 0.0376,
+      "horizontal_lines": 4280,
+      "vertical_lines": 3031,
+      "saturation_ratio": 0.0585
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  },
+  {
+    "filename": "fc3bfef1409e5e0caa5ffd5641b75995.webp",
+    "category": "dashboard",
+    "subcategory": "operational-kpi-dashboard",
+    "theme": "light",
+    "dimensions": {
+      "width": 1728,
+      "height": 2164,
+      "aspect_ratio": 0.8
+    },
+    "metrics": {
+      "background_luminance": 245.0,
+      "edge_density": 0.0376,
+      "horizontal_lines": 4280,
+      "vertical_lines": 3031,
+      "saturation_ratio": 0.0585
+    },
+    "patterns": {
+      "typography": [
+        "sans-serif-primary",
+        "monospace-numbers",
+        "hierarchical-3level",
+        "tight-leading"
+      ],
+      "layout": [
+        "sidebar-navigation",
+        "grid-12-columns",
+        "stat-cards-header",
+        "compact-data-matrix"
+      ],
+      "density": "high",
+      "color_strategy": [
+        "neutral-dominant",
+        "semantic-green-red-accents",
+        "hairline-contrast-borders"
+      ],
+      "borders": [
+        "hairline-1px-solid",
+        "subtle-row-separators",
+        "rounded-sm-max"
+      ],
+      "spacing": [
+        "4px-8px-tight-scale",
+        "compact-padding"
+      ],
+      "components": [
+        "metric-stat-card",
+        "data-table",
+        "sidebar-nav",
+        "badge-pill",
+        "sparkline-chart",
+        "segmented-control"
+      ]
+    },
+    "anti_slop_signals": [
+      "hairline-1px-borders",
+      "strict-neutral-surfaces",
+      "monochromatic-hierarchy",
+      "tabular-numeric-alignment",
+      "high-data-density",
+      "zero-decorative-glow"
+    ],
+    "slop_signals": [],
+    "quality_score": 9,
+    "quality_notes": "Operational Kpi Dashboard in light mode. Structural integrity maintained by 1px hairline dividers and dense monospace data presentation."
+  }
+]
