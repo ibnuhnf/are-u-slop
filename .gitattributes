@@ -1,4 +1,4 @@
-# Linguist overrides — jangan hitung artefak generated/data sebagai bahasa
+# Linguist overrides - jangan hitung artefak generated/data sebagai bahasa
 graphify-out/** linguist-vendored=true
 extraction/** linguist-vendored=true
 assets/** linguist-vendored=true
