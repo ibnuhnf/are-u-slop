@@ -75,7 +75,9 @@ backdrop-filter: blur(16px) saturate(180%);
 
 ---
 
-## 3. OKLCH Color Palette Presets (Siap Paste ke Tailwind CSS v4 @theme)
+## 3. OKLCH Color Palette Presets
+
+Preset di bawah hanya menimpa **Layer 2 semantic role** dari token kanonik (`templates/nextjs-boilerplate/src/app/globals.css`). Nama token tidak berubah, hanya nilai OKLCH-nya. Pakai SATU preset saja per proyek.
 
 ### Preset 1 — Linear Slate & Electric Indigo (Dark)
 ```css
@@ -143,37 +145,37 @@ Bento grid untuk feature showcase. Jangan paksakan pada dashboard data-dense.
 **Aturan keras**: Jangan isi 6 sel Bento dengan 6 card teks-putih identik.
 
 ```tsx
-// Contoh pola Bento minimal (Tailwind CSS v4)
+// Contoh pola Bento minimal (Tailwind CSS v4, token kanonik dari templates/nextjs-boilerplate/src/app/globals.css)
 export function BentoGrid() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 gap-4 max-w-7xl mx-auto px-4 py-12">
       {/* Hero Cell */}
-      <div className="md:col-span-2 bg-[--color-surface] border border-[--color-surface-border] rounded-xl p-6 flex flex-col justify-between">
+      <div className="md:col-span-2 bg-surface border border-surface-border rounded-lg p-6 flex flex-col justify-between">
         <div>
-          <span className="text-xs font-mono uppercase tracking-widest text-[--color-ink-muted]">
+          <span className="text-[11px] font-mono uppercase tracking-[0.04em] text-ink-muted">
             Feature 01
           </span>
-          <h3 className="text-xl font-bold text-[--color-ink] mt-2">
+          <h3 className="text-xl font-semibold tracking-tight text-ink mt-2">
             Real-Time Event Ingestion
           </h3>
-          <p className="text-sm text-[--color-ink-muted] mt-1 max-w-md">
+          <p className="text-sm text-ink-muted mt-1 max-w-md">
             Process over 100k events/sec with zero latency overhead.
           </p>
         </div>
-        <div className="mt-6 h-32 bg-[--color-background]/50 rounded-lg border border-[--color-surface-border] p-3 font-mono text-xs text-[--color-ink-muted]">
+        <div className="mt-6 h-32 bg-background rounded-md border border-surface-border p-3 font-mono text-xs text-ink-muted">
           {/* Telemetry stream visualization */}
         </div>
       </div>
 
       {/* Metric Cell */}
-      <div className="bg-[--color-primary]/10 border border-[--color-primary]/20 rounded-xl p-6 flex flex-col justify-between">
-        <span className="text-xs font-mono uppercase tracking-widest text-[--color-primary]">
+      <div className="bg-surface border border-surface-border rounded-lg p-6 flex flex-col justify-between">
+        <span className="text-[11px] font-mono uppercase tracking-[0.04em] text-primary">
           Uptime SLA
         </span>
-        <div className="text-5xl font-extrabold text-[--color-ink] tracking-tight font-mono my-4">
+        <div className="text-5xl font-semibold text-ink tracking-tight font-mono tabular-nums my-4">
           99.99%
         </div>
-        <p className="text-xs text-[--color-ink-muted]">
+        <p className="text-xs text-ink-muted">
           Guaranteed availability across 12 regions.
         </p>
       </div>
@@ -181,6 +183,9 @@ export function BentoGrid() {
   )
 }
 ```
+
+> Catatan: `bg-surface`, `text-ink-muted`, `border-surface-border` adalah utility yang dihasilkan `@theme` di file token kanonik. Jangan tulis `bg-[--color-surface]` atau `bg-[var(--color-surface)]`.
+
 
 ---
 

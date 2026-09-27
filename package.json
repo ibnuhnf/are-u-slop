@@ -1,32 +1,14 @@
 {
-  "name": "anti-slop-ui",
-  "version": "1.0.0",
+  "name": "anti-slop-ui-engine",
+  "version": "2.5.0",
   "private": true,
+  "description": "Evidence-based design rules and AI system prompts for high-density, craftsmanship-grade web interfaces.",
   "type": "module",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-    "check-slop": "node scripts/check-slop.mjs"
-  },
-  "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "^15.1.0",
-    "lucide-react": "^0.475.0",
-    "clsx": "^2.1.1",
-    "tailwind-merge": "^3.0.1",
-    "@radix-ui/react-slot": "^1.1.2",
-    "@radix-ui/react-dialog": "^1.1.6",
-    "@radix-ui/react-popover": "^1.1.6"
-  },
-  "devDependencies": {
-    "typescript": "^5.7.3",
-    "@types/node": "^22.13.4",
-    "@types/react": "^19.0.8",
-    "@types/react-dom": "^19.0.3",
-    "tailwindcss": "^4.0.0",
-    "@tailwindcss/postcss": "^4.0.0"
+    "check-slop": "node scripts/check-slop.mjs",
+    "lint": "node scripts/check-slop.mjs",
+    "dev": "npm --prefix templates/nextjs-boilerplate run dev",
+    "build": "npm --prefix templates/nextjs-boilerplate run build",
+    "install:template": "npm --prefix templates/nextjs-boilerplate install"
   }
 }

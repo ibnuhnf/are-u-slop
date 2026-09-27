@@ -101,34 +101,42 @@ Default Baseline: `DESIGN_VARIANCE: 8 | MOTION_INTENSITY: 6 | VISUAL_DENSITY: 4`
 ## 4. PRECISION COLOR ARCHITECTURE (OKLCH + Tailwind CSS v4)
 
 ### 4.1 CSS-First Token System (3 Layer)
-Definisikan token via `@theme` Tailwind CSS v4:
+
+> **SUMBER KANONIK:** `templates/nextjs-boilerplate/src/app/globals.css`.
+> Nama token di file itu adalah satu-satunya kosakata yang sah. Blok di bawah adalah ringkasan kontrak, bukan salinan untuk di-paste ulang.
+
 ```css
 @import "tailwindcss";
 
 @theme {
-  /* Primitive Grays */
-  --color-neutral-50:  oklch(0.98 0.005 250);
-  --color-neutral-100: oklch(0.95 0.008 250);
-  --color-neutral-200: oklch(0.89 0.012 250);
-  --color-neutral-800: oklch(0.25 0.015 250);
-  --color-neutral-900: oklch(0.15 0.018 250);
+  --color-*: initial;   /* matikan palet default Tailwind */
 
-  /* Semantic Role Tokens */
-  --color-background:       var(--color-neutral-50);
-  --color-surface:          oklch(1.00 0.000 250);
-  --color-surface-border:   var(--color-neutral-200);
-  --color-ink:              var(--color-neutral-900);
-  --color-ink-muted:        oklch(0.45 0.015 250);
-  --color-primary:          oklch(0.62 0.22 260);
-  --color-primary-contrast: oklch(0.99 0 0);
+  /* Layer 1 — Primitive */
+  --color-brand-50 / -100 / -500 / -900
+  --color-neutral-50 / -100 / -200 / -300 / -700 / -800 / -900
 
-  /* Status Tokens */
-  --color-success: oklch(0.65 0.18 145);
-  --color-warning: oklch(0.75 0.16 75);
-  --color-danger:  oklch(0.58 0.22 25);
-  --color-info:    oklch(0.60 0.20 265);
+  /* Layer 2 — Semantic role (light default, di-override di .dark) */
+  --color-background              --color-surface
+  --color-surface-hover           --color-surface-active
+  --color-surface-border          --color-surface-border-hover
+  --color-surface-border-subtle   --color-ink
+  --color-ink-secondary           --color-ink-muted
+  --color-primary                 --color-primary-hover
+  --color-primary-contrast
+
+  /* Status — hanya untuk status riil, dilarang dekoratif */
+  --color-success / -bg   --color-warning / -bg   --color-danger / -bg
+
+  /* Shape & depth */
+  --radius-sm 4px  --radius-md 6px  --radius-lg 8px  --radius-xl 12px (maks modal)
+  --shadow-xs / -sm / -md  (blur <= 16px, opacity <= 0.15)
 }
+
+@custom-variant dark (&:where(.dark, .dark *));
 ```
+
+Konsekuensi `--color-*: initial`: utility seperti `bg-surface`, `text-ink-muted`, `border-surface-border` tersedia otomatis. **Dilarang** menulis `bg-[var(--color-...)]` — itu tanda token belum dipakai sebagaimana mestinya.
+
 
 ### 4.2 Rasio Palet dan Contrast
 - 90% netral surface/bg/border + 10% accent tunggal.

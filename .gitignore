@@ -2,3 +2,8 @@ node_modules
 .next
 .DS_Store
 *.log
+
+# Local-only visual source material and generated graph artifacts
+image/
+image-list.txt
+graphify-out/

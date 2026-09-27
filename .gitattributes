@@ -1,0 +1,6 @@
+# Linguist overrides — jangan hitung artefak generated/data sebagai bahasa
+graphify-out/** linguist-vendored=true
+extraction/** linguist-vendored=true
+assets/** linguist-vendored=true
+*.json linguist-vendored=true
+*.md linguist-documentation=true

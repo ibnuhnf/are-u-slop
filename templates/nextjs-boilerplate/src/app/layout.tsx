@@ -3,7 +3,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Anti-Slop Canonical UI",
-  description: "High-density enterprise analytics workbench engineered with Anti-Slop UI standards.",
+  description:
+    "High-density enterprise analytics workbench engineered with Anti-Slop UI standards.",
 };
 
 export default function RootLayout({
@@ -13,7 +14,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
-      <body className="antialiased selection:bg-[var(--color-accent)] selection:text-white">
+      <body className="antialiased selection:bg-primary selection:text-primary-contrast">
         {children}
       </body>
     </html>

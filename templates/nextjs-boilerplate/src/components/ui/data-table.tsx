@@ -11,20 +11,32 @@ export interface Column<T> {
 export interface DataTableProps<T> {
   columns: Column<T>[];
   data: T[];
+  emptyMessage?: string;
   className?: string;
 }
 
-export function DataTable<T>({ columns, data, className }: DataTableProps<T>) {
+/* Row height 36-40px (h-9 / h-10), cell padding horizontal 12px (px-3). */
+export function DataTable<T>({
+  columns,
+  data,
+  emptyMessage = "No records found.",
+  className,
+}: DataTableProps<T>) {
   return (
-    <div className={cn("w-full overflow-x-auto border border-surface-border rounded-lg bg-surface", className)}>
-      <table className="w-full text-left text-sm border-collapse">
+    <div
+      className={cn(
+        "w-full overflow-x-auto rounded-lg border border-surface-border bg-surface",
+        className
+      )}
+    >
+      <table className="w-full border-collapse text-left text-sm">
         <thead>
-          <tr className="border-b border-surface-border bg-background/50 h-9">
+          <tr className="h-9 border-b border-surface-border bg-surface-hover">
             {columns.map((col, index) => (
               <th
                 key={index}
                 className={cn(
-                  "px-3 text-[11px] font-semibold text-ink-muted uppercase tracking-wider",
+                  "px-3 font-mono text-[11px] font-semibold uppercase tracking-wider text-ink-muted",
                   col.align === "right" && "text-right",
                   col.align === "center" && "text-center"
                 )}
@@ -34,25 +46,28 @@ export function DataTable<T>({ columns, data, className }: DataTableProps<T>) {
             ))}
           </tr>
         </thead>
-        <tbody className="divide-y divide-surface-border/60">
+        <tbody className="divide-y divide-surface-border-subtle">
           {data.length === 0 ? (
             <tr>
-              <td colSpan={columns.length} className="h-24 text-center text-sm text-ink-muted">
-                No records found.
+              <td
+                colSpan={columns.length}
+                className="h-24 text-center text-sm text-ink-muted"
+              >
+                {emptyMessage}
               </td>
             </tr>
           ) : (
             data.map((row, rowIndex) => (
               <tr
                 key={rowIndex}
-                className="h-10 hover:bg-surface-hover/50 transition-colors"
+                className="h-10 transition-colors duration-150 hover:bg-surface-hover"
               >
                 {columns.map((col, colIndex) => {
                   const content = col.cell
                     ? col.cell(row)
                     : col.accessorKey
-                    ? String(row[col.accessorKey])
-                    : null;
+                      ? String(row[col.accessorKey])
+                      : null;
 
                   return (
                     <td

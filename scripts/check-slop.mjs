@@ -36,10 +36,16 @@ const BANNED_PATTERNS = [
     name: "Viewport Layout Jump (h-screen instead of dvh)",
     regex: /\bh-screen\b/g,
     reason: "Use min-h-[100dvh] instead of h-screen to avoid mobile browser address bar layout jumps."
+  },
+  {
+    name: "Raw CSS Variable Used As Tailwind Utility",
+    regex: /\b(bg|text|border|ring|fill|stroke|divide|placeholder|ring-offset)-\[var\(--color-/g,
+    reason: "@theme already generates utilities from the canonical tokens. Write bg-surface / text-ink-muted / border-surface-border instead of bg-[var(--color-surface)]."
   }
 ];
 
-const SCAN_DIRS = ["src", "components", "app"];
+/* templates/ adalah implementasi kanonik, jadi ikut diaudit. */
+const SCAN_DIRS = ["src", "components", "app", "templates"];
 const EXTENSIONS = [".tsx", ".ts", ".jsx", ".js", ".css"];
 
 let hasErrors = false;

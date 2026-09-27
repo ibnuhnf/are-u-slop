@@ -25,31 +25,28 @@
 ---
 
 ## 3. OKLCH Precision Color System (Tailwind CSS v4 Standard)
-Definisikan warna melalui token @theme. Dilarang inline arbitrary hex (#6366f1) di class komponen.
 
-```css
-@theme {
-  /* Primitive Grays */
-  --color-neutral-base: oklch(0.14 0.01 250);
-  --color-neutral-surface: oklch(0.20 0.015 250);
-  --color-neutral-subtle: oklch(0.26 0.018 250);
-  --color-neutral-border: oklch(0.32 0.020 250);
-  
-  /* Text / Ink */
-  --color-ink: oklch(0.96 0.005 250);       /* AAA Contrast (>=7:1) */
-  --color-ink-muted: oklch(0.70 0.012 250); /* AA Contrast (>=4.5:1) */
-  --color-ink-subtle: oklch(0.52 0.015 250);
+> **Token kanonik ada di `templates/nextjs-boilerplate/src/app/globals.css`.** Dokumen ini spesifikasi naratif; file itulah implementasinya.
 
-  /* Single Semantic Brand Accent (90/10 Rule: 90% monochrome, 10% accent) */
-  --color-primary: oklch(0.62 0.22 260);
-  --color-primary-contrast: oklch(0.98 0 0);
+Ringkasan kontrak:
 
-  /* Semantic Status: HANYA untuk status riil, dilarang dekoratif */
-  --color-success: oklch(0.65 0.18 145);
-  --color-warning: oklch(0.75 0.16 75);
-  --color-danger: oklch(0.58 0.22 25);
-}
-```
+| Kelompok | Token |
+|---|---|
+| Layer 1 Primitive | `--color-brand-50/-100/-500/-900`, `--color-neutral-50/-100/-200/-300/-700/-800/-900` |
+| Surface | `--color-background`, `--color-surface`, `--color-surface-hover`, `--color-surface-active` |
+| Border | `--color-surface-border`, `--color-surface-border-hover`, `--color-surface-border-subtle` |
+| Ink | `--color-ink`, `--color-ink-secondary`, `--color-ink-muted` |
+| Accent | `--color-primary`, `--color-primary-hover`, `--color-primary-contrast` |
+| Status | `--color-success(-bg)`, `--color-warning(-bg)`, `--color-danger(-bg)` |
+
+Aturan:
+- Dilarang inline arbitrary hex (`#6366f1`) di class komponen. Gunakan utility token (`bg-surface`, `text-ink-muted`).
+- Dilarang menulis `bg-[var(--color-surface)]`; `@theme` sudah menghasilkan utility `bg-surface`.
+- Mode gelap di-override lewat `@custom-variant dark (&:where(.dark, .dark *))`, bukan blok `@theme` terpisah.
+- 90% netral (surface/bg/border) + 10% accent tunggal.
+- Body text (`--color-ink`): WCAG AAA (7:1) terhadap surface. Muted (`--color-ink-muted`): WCAG AA (4.5:1).
+
+Nilai lengkap: lihat file kanonik di atas.
 
 ---
 

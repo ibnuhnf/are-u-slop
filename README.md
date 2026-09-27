@@ -48,18 +48,24 @@ anti-slop/
 │   ├── raw-analysis.json
 │   └── grouped-archetypes.json
 ├── templates/
-│   └── nextjs-boilerplate/       # Canonical reference Next.js (App Router) + Tailwind CSS v4
+│   └── nextjs-boilerplate/       # Implementasi kanonik — Next.js App Router + Tailwind CSS v4
 │       ├── package.json
 │       ├── tsconfig.json
+│       ├── next.config.ts
+│       ├── postcss.config.mjs
 │       └── src/
 │           ├── app/
-│           │   ├── globals.css   # OKLCH color token definition
+│           │   ├── globals.css   # ★ SUMBER TOKEN KANONIK (OKLCH 3-layer)
 │           │   ├── layout.tsx
-│           │   └── page.tsx      # High-density observability dashboard
-│           ├── components/ui/    # Button, Badge, Card components
+│           │   └── page.tsx      # Dashboard observability high-density
+│           ├── components/ui/    # button, badge, card, input, metric-card, data-table
 │           └── lib/utils.ts
+├── scripts/
+│   └── check-slop.mjs            # Linter zero-dependency (audit src/ + templates/)
 └── assets/                       # Visual comparison assets
 ```
+
+> **Satu kosakata token.** Nama token didefinisikan sekali di `templates/nextjs-boilerplate/src/app/globals.css`. `SKILL.md` dan `rules/01-ui-design-tokens.md` adalah spesifikasi naratif yang merujuk ke sana — bukan definisi paralel. Tidak ada `src/` di root repo.
 
 ---
 

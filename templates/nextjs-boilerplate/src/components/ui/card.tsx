@@ -1,26 +1,22 @@
-import React from "react";
+import * as React from "react";
 import { cn } from "@/lib/utils";
 
 export interface CardProps extends React.HTMLAttributes<HTMLDivElement> {
   variant?: "default" | "subtle" | "inset";
 }
 
-export function Card({
-  className,
-  variant = "default",
-  children,
-  ...props
-}: CardProps) {
+export function Card({ className, variant = "default", children, ...props }: CardProps) {
+  const variantStyles = {
+    default: "bg-surface border-surface-border shadow-xs",
+    subtle: "bg-surface-hover border-surface-border-subtle",
+    inset: "bg-background border-surface-border",
+  };
+
   return (
     <div
       className={cn(
         "rounded-lg border transition-colors",
-        variant === "default" &&
-          "bg-[var(--color-bg-surface)] border-[var(--color-border-hairline)] shadow-xs",
-        variant === "subtle" &&
-          "bg-[var(--color-bg-subtle)] border-[var(--color-border-hairline)]",
-        variant === "inset" &&
-          "bg-[var(--color-bg-app)] border-[var(--color-border-hairline)]",
+        variantStyles[variant],
         className
       )}
       {...props}
