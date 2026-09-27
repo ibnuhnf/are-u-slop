@@ -61,7 +61,8 @@ anti-slop/
 │           ├── components/ui/    # button, badge, card, input, metric-card, data-table
 │           └── lib/utils.ts
 ├── scripts/
-│   └── check-slop.mjs            # Linter zero-dependency (audit src/ + templates/)
+│   ├── check-slop.mjs            # Anti-Slop linter (Node, audit src/ + templates/)
+│   └── validate_dataset.py       # Dataset & OKLCH token validator (Python 3.10+)
 └── assets/                       # Visual comparison assets
 ```
 

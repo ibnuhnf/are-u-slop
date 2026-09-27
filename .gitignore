@@ -7,3 +7,4 @@ node_modules
 image/
 image-list.txt
 graphify-out/
+package-lock.json

@@ -15,5 +15,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
-      - name: Run Anti-Slop Linter
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run Anti-Slop Linter (Node)
         run: node scripts/check-slop.mjs
+      - name: Validate Dataset & Tokens (Python)
+        run: python scripts/validate_dataset.py
