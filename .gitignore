@@ -2,6 +2,7 @@ node_modules
 .next
 .DS_Store
 *.log
+*.tsbuildinfo
 
 # Local-only visual source material and generated graph artifacts
 image/
