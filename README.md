@@ -2,7 +2,7 @@
 
 Aturan desain dan prompt sistem untuk agen AI (Claude Code, Cursor, Copilot, Windsurf) yang menolak gaya default hasil generate AI: gradient ungu, radius 24px di semua elemen, shadow blur tebal, whitespace tanpa fungsi, dan tabel yang angkanya tidak sejajar.
 
-Sumbernya bukan opini. Aturan ini diekstrak dari 111 screenshot dashboard nyata, lalu diuji dengan linter, validator, dan satu halaman perbandingan yang bisa dibuka sendiri.
+Sumbernya bukan opini. Aturan ini disintesis dari data yang sudah diuji coba untuk dipelajari, lalu diuji dengan linter, validator, dan satu halaman perbandingan yang bisa dibuka sendiri.
 
 ---
 
@@ -47,7 +47,7 @@ anti-slop/
 │   ├── 04-security-and-hardening.md
 │   ├── 05-performance-and-stack.md
 │   └── 06-workflow-and-context.md
-├── extraction/                   # Dataset IR dari 111 screenshot
+├── extraction/                   # Dataset IR yang sudah diuji coba untuk dipelajari
 │   ├── raw-analysis.json
 │   └── grouped-archetypes.json
 ├── templates/nextjs-boilerplate/ # Implementasi kanonik: Next.js App Router + Tailwind v4
@@ -128,13 +128,7 @@ Baseline default: `8 | 6 | 4`.
 
 ## Dataset
 
-Aturan disintesis dari 111 antarmuka dashboard di `extraction/raw-analysis.json`, terbagi 5 arketipe:
-
-1. Financial Trading & Crypto Terminals (32 sampel)
-2. Enterprise Data Tables & Audit Grids (32 sampel)
-3. Minimalist SaaS Workbenches (31 sampel)
-4. Operational KPI Dashboards (11 sampel)
-5. Developer Observability Monitors (5 sampel)
+Aturan disintesis dari data operasional dan antarmuka yang sudah diuji coba untuk dipelajari, mencakup arketipe seperti Financial Trading & Crypto Terminals, Enterprise Data Tables & Audit Grids, Minimalist SaaS Workbenches, Operational KPI Dashboards, dan Developer Observability Monitors. Detailnya ada di `extraction/` untuk yang ingin menelusuri lebih lanjut.
 
 ---
 
