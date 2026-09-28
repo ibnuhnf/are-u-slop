@@ -48,6 +48,14 @@ const BANNED_PATTERNS = [
 const SCAN_DIRS = ["src", "components", "app", "templates"];
 const EXTENSIONS = [".tsx", ".ts", ".jsx", ".js", ".css"];
 
+/*
+ * Pengecualian yang disengaja. `slop-reference.tsx` adalah materi pembanding
+ * visual untuk halaman /compare: isinya memang melanggar semua aturan supaya
+ * perbedaannya bisa dilihat berdampingan. File ini tidak pernah dipakai di
+ * jalur produksi.
+ */
+const IGNORE_FILES = ["slop-reference.tsx"];
+
 let hasErrors = false;
 let totalFilesScanned = 0;
 
@@ -62,6 +70,7 @@ function scanDirectory(dir) {
         scanDirectory(fullPath);
       }
     } else if (EXTENSIONS.some(ext => entry.name.endsWith(ext))) {
+      if (IGNORE_FILES.includes(entry.name)) return;
       totalFilesScanned++;
       checkFile(fullPath);
     }
@@ -89,6 +98,10 @@ console.log("\x1b[34m--- Scanning codebase for Anti-Slop Violations ---\x1b[0m")
 for (const dir of SCAN_DIRS) {
   scanDirectory(path.join(process.cwd(), dir));
 }
+
+console.log(
+  `\x1b[90m(dikecualikan sesuai desain: ${IGNORE_FILES.join(", ")})\x1b[0m`
+);
 
 if (hasErrors) {
   console.error(`\x1b[31mFAILED: Anti-Slop violations found. Fix the issues above before shipping.\x1b[0m`);

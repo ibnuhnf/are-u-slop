@@ -1,42 +1,45 @@
-# ⚡ Anti-Slop UI Engine (v2.4.0)
+# Anti-Slop UI Engine
 
-> **Evidence-Based Design Rules & AI System Prompts for High-Density, Craftsmanship-Grade Web Interfaces.**  
-> Eliminates generic "AI-slop" (neon purple gradients, bloated blur shadows, purposeless whitespace, and unaligned tabular data) across Claude Code, Cursor, Copilot, and Windsurf.
+Aturan desain dan prompt sistem untuk agen AI (Claude Code, Cursor, Copilot, Windsurf) yang menolak gaya default hasil generate AI: gradient ungu, radius 24px di semua elemen, shadow blur tebal, whitespace tanpa fungsi, dan tabel yang angkanya tidak sejajar.
+
+Sumbernya bukan opini. Aturan ini diekstrak dari 111 screenshot dashboard nyata, lalu diuji dengan linter, validator, dan satu halaman perbandingan yang bisa dibuka sendiri.
 
 ---
 
-## 📸 Before vs After
+## Lihat perbedaannya
 
-| ❌ BEFORE (AI-Slop Cliché) | ✅ AFTER (Anti-Slop Craftsmanship) |
+Dua halaman ini memakai dataset yang sama persis (`src/lib/data.ts`). Yang berbeda hanya keputusan desainnya.
+
+| Dashboard kanonik (`/`) | Perbandingan langsung (`/compare`) |
 | :---: | :---: |
-| ![Before AI Slop](assets/before-ai-slop.png) | ![After Anti-Slop](assets/after-anti-slop.png) |
-| *Purple neon blobs, giant pill buttons, bloated shadows, zero tabular alignment* | *Rigid 1px hairline borders, OKLCH monochromatic surface, tabular nums, dense grid* |
-
-### Side-by-Side Comparison
-![Before and After Comparison](assets/comparison-before-after.png)
+| ![Dashboard dark](assets/dashboard-dark.png) | ![Perbandingan](assets/compare.png) |
+| ![Dashboard light](assets/dashboard-light.png) | ![Perbandingan light](assets/compare-light.png) |
 
 ---
 
-## 🎯 What is AI-Slop vs Anti-Slop?
+## Tujuh keputusan yang membedakannya
 
-| Attribute | ❌ AI-Slop (Generic & Bloated) | ✅ Anti-Slop Engine (Engineered & Dense) |
-| :--- | :--- | :--- |
-| **Color Space** | Random inline hex (`#6366f1`), neon purple-cyan gradients | 3-Layer **OKLCH Token Architecture** (90% neutral, 10% single accent) |
-| **Borders** | Thick 2-3px borders or missing borders with blurry drop shadows | **1px Hairline Solid Borders** (`rgba(255,255,255,0.08)` / `rgba(0,0,0,0.06)`) |
-| **Shadows** | `blur > 20px` floating bubble effect | **Layered Micro-Shadows** (`--shadow-xs`, blur max 4-8px, opacity < 8%) |
-| **Typography** | Generic un-configured system fonts, text center-aligned everywhere | **Type Pairing** (Display + Mono) with **`tabular-nums`** & tight leading |
-| **Data Matrix** | Unaligned numbers, loose rows, wasted whitespace | **Row height 36-40px**, right-aligned numbers, compact stat cards |
-| **Interaction** | Missing hover/focus states, jarring animations | **5 Complete States**, 100-180ms easing, `prefers-reduced-motion` |
+| Aspek | Slop default AI | Standar repo ini | Aturan |
+| :--- | :--- | :--- | :--- |
+| **Warna** | Gradient ungu-cyan, hex inline (`#6366F1`) | OKLCH 3 lapis, 90% netral + satu accent | `rules/01` §3 |
+| **Radius** | 24px di semua elemen, pill di container | 4px badge, 6px kontrol, 8-12px card | `rules/01` §1 |
+| **Shadow** | blur 40px, glow berwarna | `--shadow-xs`, blur 2px, opacity 4% | `rules/01` §4 |
+| **Border** | 2-3px pekat, atau tanpa border | hairline 1px `rgba(255,255,255,0.08)` | `rules/01` §4 |
+| **Nesting** | card di dalam card di dalam card | maksimum 1 level, sisanya surface shift | `rules/01` §1 |
+| **Angka** | proporsional, rata kiri, tidak sejajar | `tabular-nums`, rata kanan, lebar kolom tetap | `rules/01` §5 |
+| **Kepadatan** | `py-6 px-8`, satu baris per layar | baris 40px, `px-3`, 12 baris per layar | `rules/01` §2 |
+
+Keduanya bisa dilihat berdampingan di `/compare`. Materi versi slop ada di `src/components/slop-reference.tsx`, sengaja melanggar semua aturan, dan dikecualikan dari kedua linter.
 
 ---
 
-## 📦 Repository Structure
+## Struktur repo
 
 ```tree
 anti-slop/
-├── .cursorrules                  # Global Cursor IDE AI rule enforcer
-├── SKILL.md                      # Master skill specification for Claude Code & AI agents
-├── rules/                        # Modular rule engine specifications
+├── .cursorrules                  # Rule enforcer untuk Cursor IDE
+├── SKILL.md                      # Spesifikasi skill untuk Claude Code & agen AI
+├── rules/                        # Spesifikasi aturan modular
 │   ├── 00-dataset-do-dont-guide.md
 │   ├── 01-ui-design-tokens.md
 │   ├── 02-code-quality-rules.md
@@ -44,80 +47,97 @@ anti-slop/
 │   ├── 04-security-and-hardening.md
 │   ├── 05-performance-and-stack.md
 │   └── 06-workflow-and-context.md
-├── extraction/                   # Visual IR extraction dataset (111 images)
+├── extraction/                   # Dataset IR dari 111 screenshot
 │   ├── raw-analysis.json
 │   └── grouped-archetypes.json
-├── templates/
-│   └── nextjs-boilerplate/       # Implementasi kanonik — Next.js App Router + Tailwind CSS v4
-│       ├── package.json
-│       ├── tsconfig.json
-│       ├── next.config.ts
-│       ├── postcss.config.mjs
-│       └── src/
-│           ├── app/
-│           │   ├── globals.css   # ★ SUMBER TOKEN KANONIK (OKLCH 3-layer)
-│           │   ├── layout.tsx
-│           │   └── page.tsx      # Dashboard observability high-density
-│           ├── components/ui/    # button, badge, card, input, metric-card, data-table
-│           └── lib/utils.ts
+├── templates/nextjs-boilerplate/ # Implementasi kanonik: Next.js App Router + Tailwind v4
+│   ├── src/app/
+│   │   ├── globals.css           # Sumber token kanonik (OKLCH 3 lapis)
+│   │   ├── layout.tsx
+│   │   ├── page.tsx              # Dashboard rekonsiliasi pembayaran
+│   │   └── compare/page.tsx      # Slop vs anti-slop, data identik
+│   ├── src/components/ui/        # button, badge, card, input, metric-card,
+│   │                             # data-table, area-chart, sparkline,
+│   │                             # segmented-control, stat-breakdown, theme-toggle
+│   ├── src/components/slop-reference.tsx  # Materi pembanding, jangan dipakai di produksi
+│   ├── src/lib/data.ts           # Dataset deterministik (seeded PRNG)
+│   └── scripts/capture-screenshots.mjs    # Screenshot README via Playwright
 ├── scripts/
-│   ├── check-slop.mjs            # Anti-Slop linter (Node, audit src/ + templates/)
-│   └── validate_dataset.py       # Dataset & OKLCH token validator (Python 3.10+)
-└── assets/                       # Visual comparison assets
+│   ├── check-slop.mjs            # Linter Node (audit src/ + templates/)
+│   └── validate_dataset.py       # Validator dataset + token OKLCH (Python 3.10+)
+└── assets/                       # Screenshot hasil capture
 ```
 
-> **Satu kosakata token.** Nama token didefinisikan sekali di `templates/nextjs-boilerplate/src/app/globals.css`. `SKILL.md` dan `rules/01-ui-design-tokens.md` adalah spesifikasi naratif yang merujuk ke sana — bukan definisi paralel. Tidak ada `src/` di root repo.
+Satu kosakata token. Nama token didefinisikan sekali di `templates/nextjs-boilerplate/src/app/globals.css`. `SKILL.md` dan `rules/01-ui-design-tokens.md` adalah spesifikasi naratif yang merujuk ke sana, bukan definisi paralel. Tidak ada `src/` di root repo.
 
 ---
 
-## 🚀 How to Use
+## Cara pakai
 
-### 1. In Cursor IDE
-Copy the `.cursorrules` file into the root of your project:
+**Cursor IDE.** Salin `.cursorrules` ke root project kamu:
+
 ```bash
 cp .cursorrules /path/to/your-project/.cursorrules
 ```
-Cursor AI will automatically apply the Anti-Slop rulebook to every code generation prompt.
 
-### 2. In Claude Code / Anthropic Skills
-Add `SKILL.md` to your Claude Code workspace or skills directory:
-```bash
-# Register skill in Claude Code
-claude skill add anti-slop ./SKILL.md
-```
+**Claude Code.** Pasang `SKILL.md` ke direktori skills.
 
-### 3. Using the Canonical Next.js Boilerplate
-To start a new project with all tokens, components, and layout templates pre-configured:
+**Clone boilerplate.** Jalankan dashboard dan halaman perbandingannya:
+
 ```bash
 cd templates/nextjs-boilerplate
 npm install
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to view the high-density workbench.
 
----
+- `http://localhost:3000` untuk dashboard kanonik
+- `http://localhost:3000/compare` untuk perbandingan slop vs anti-slop
 
-## 🛠️ Design Parameter Dials
+**Jalankan auditnya sendiri** dari root repo:
 
-Every generation starts with explicit dial settings (1-10 scale):
+```bash
+node scripts/check-slop.mjs        # linter Node
+python scripts/validate_dataset.py # validator dataset + token
+```
 
-```text
-DESIGN_VARIANCE: [1-10]   # 1 = strictly uniform grid, 10 = asymmetrical editorial flow
-MOTION_INTENSITY: [1-10]  # 1 = instant/zero motion, 10 = rich orchestrated transitions
-VISUAL_DENSITY: [1-10]    # 1 = spacious marketing card, 10 = Bloomberg-terminal density
+`check-slop.mjs` memindai `src/`, `components/`, `app/`, dan `templates/` terhadap larangan gradient ungu-indigo, radius >= 16px, shadow `xl`/`2xl`, hex inline, `backdrop-blur` tanpa alasan, `h-screen`, em-dash, dan CSS variable yang ditulis mentah sebagai utility Tailwind. Keluar dengan kode 1 kalau ada pelanggaran, jadi bisa dipasang di CI.
+
+**Perbarui screenshot README** setelah mengubah UI:
+
+```bash
+cd templates/nextjs-boilerplate
+npm run build && npx next start -p 3111
+node scripts/capture-screenshots.mjs http://localhost:3111   # butuh playwright
 ```
 
 ---
 
-## 📜 Dataset & Scientific Backing
-Trained and synthesized on an empirical dataset of **111 digital dashboard interfaces** (`extraction/raw-analysis.json`) across 5 visual archetypes:
-1. **Financial Trading & Crypto Terminals** (32 samples)
-2. **Enterprise Data Tables & Audit Grids** (32 samples)
-3. **Minimalist SaaS Workbenches** (31 samples)
-4. **Operational KPI Dashboards** (11 samples)
-5. **Developer Observability Monitors** (5 samples)
+## Tiga dial parameter
+
+Setiap generasi dimulai dengan tiga angka skala 1-10:
+
+```text
+DESIGN_VARIANCE: [1-10]   # 1 = grid seragam ketat, 10 = aliran editorial asimetris
+MOTION_INTENSITY: [1-10]  # 1 = tanpa motion, 10 = transisi terorkestrasi
+VISUAL_DENSITY: [1-10]    # 1 = card marketing lapang, 10 = kepadatan terminal trading
+```
+
+Baseline default: `8 | 6 | 4`.
 
 ---
 
-## 📄 License
-MIT License. Free to use for personal and commercial projects.
+## Dataset
+
+Aturan disintesis dari 111 antarmuka dashboard di `extraction/raw-analysis.json`, terbagi 5 arketipe:
+
+1. Financial Trading & Crypto Terminals (32 sampel)
+2. Enterprise Data Tables & Audit Grids (32 sampel)
+3. Minimalist SaaS Workbenches (31 sampel)
+4. Operational KPI Dashboards (11 sampel)
+5. Developer Observability Monitors (5 sampel)
+
+---
+
+## Lisensi
+
+MIT. Bebas dipakai untuk project pribadi maupun komersial.

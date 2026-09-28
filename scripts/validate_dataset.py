@@ -22,6 +22,14 @@ SLOP_PATTERNS = [
     (re.compile(r"\bh-screen\b"), "Viewport Layout Jump (use min-h-[100dvh])"),
 ]
 
+"""
+Pengecualian yang disengaja, selaras dengan IGNORE_FILES di scripts/check-slop.mjs.
+slop-reference.tsx adalah materi pembanding visual untuk halaman /compare: isinya
+memang melanggar semua aturan supaya perbedaannya bisa dilihat berdampingan.
+File ini tidak pernah dipakai di jalur produksi.
+"""
+IGNORE_FILES = {"slop-reference.tsx"}
+
 
 def validate_dataset() -> int:
     """Validasi integritas 111 sampel IR di extraction/raw-analysis.json."""
@@ -85,8 +93,12 @@ def scan_templates() -> int:
         return 0
 
     violations = 0
+    skipped = []
     for file in tpl_src.rglob("*"):
         if file.suffix not in {".tsx", ".ts", ".css"}:
+            continue
+        if file.name in IGNORE_FILES:
+            skipped.append(file.name)
             continue
         content = file.read_text(encoding="utf-8", errors="ignore")
         for line_no, line in enumerate(content.splitlines(), start=1):
@@ -94,6 +106,9 @@ def scan_templates() -> int:
                 if pattern.search(line):
                     print(f"[SLOP] {file.relative_to(ROOT)}:{line_no} -> {name}")
                     violations += 1
+
+    if skipped:
+        print(f"[*] Dikecualikan sesuai desain: {', '.join(sorted(skipped))}")
 
     if violations == 0:
         print("[OK] Kode templates/ lolos uji audit Python (0 pelanggaran).")
